@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-TERNARY_HAMMING_DECODER",
+  "name": "THE TERNARY HAMMING DECODER · PP",
+  "universe": "PSĒPHOS",
+  "moniker": "⟦THE TERNARY HAMMING DECODER · PP:ternary-hamming-decoder:57875c⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "57875cab94e52d2d36b8198c5d6b626ae20c09808ecd1ef64ad11909e317f2fa",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
